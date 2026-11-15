@@ -1,0 +1,65 @@
+{
+  "input_path": "C:\\Users\\CWYH\\code\\CWYH\\assignment1-basics\\data\\TinyStoriesV2-GPT4-train.txt",
+  "input_bytes": 2227753162,
+  "input_sha256": "6418d412de72888f52b5142c761ac21a582f7d1166f0bfbdb5f03ccfdec90443",
+  "requested_vocab_size": 10000,
+  "actual_vocab_size": 10000,
+  "merge_count": 9743,
+  "special_tokens": [
+    "<|endoftext|>"
+  ],
+  "training_wall_seconds": 265.2032884,
+  "training_cpu_seconds": 260.484375,
+  "baseline_rss_bytes": 28131328,
+  "rss_after_training_bytes": 96075776,
+  "process_peak_rss_bytes": 122216448,
+  "process_peak_commit_bytes": 115032064,
+  "memory_measurement": "Windows OS peak working set for this process through training completion",
+  "timing_scope": "train_bpe only; includes reading/pretokenization/merging, excludes hashing/serialization",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python_version": "3.13.5",
+  "processor": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel",
+  "logical_cpu_count": 20,
+  "total_ram_bytes": 34167775232,
+  "longest_tokens": [
+    {
+      "id": 7160,
+      "byte_length": 15,
+      "hex": "206163636f6d706c6973686d656e74",
+      "text": " accomplishment"
+    },
+    {
+      "id": 9143,
+      "byte_length": 15,
+      "hex": "206469736170706f696e746d656e74",
+      "text": " disappointment"
+    },
+    {
+      "id": 9379,
+      "byte_length": 15,
+      "hex": "20726573706f6e736962696c697479",
+      "text": " responsibility"
+    }
+  ],
+  "longest_non_special_tokens": [
+    {
+      "id": 7160,
+      "byte_length": 15,
+      "hex": "206163636f6d706c6973686d656e74",
+      "text": " accomplishment"
+    },
+    {
+      "id": 9143,
+      "byte_length": 15,
+      "hex": "206469736170706f696e746d656e74",
+      "text": " disappointment"
+    },
+    {
+      "id": 9379,
+      "byte_length": 15,
+      "hex": "20726573706f6e736962696c697479",
+      "text": " responsibility"
+    }
+  ],
+  "serialization_roundtrip_verified": true
+}
