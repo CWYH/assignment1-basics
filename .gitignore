@@ -163,3 +163,10 @@ cython_debug/
 *.zip
 
 /artifacts/tinystories_bpe_profile/
+/benchmarks/bpe_native/vendor/
+/benchmarks/bpe_native/build/
+/benchmarks/bpe_native/csharp/bin/
+/benchmarks/bpe_native/csharp/obj/
+/artifacts/bpe_language_benchmark/validation/
+/artifacts/bpe_language_benchmark/run_*/
+/artifacts/bpe_csharp_investigation/runs/

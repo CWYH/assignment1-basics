@@ -1,0 +1,19 @@
+{
+  "input_bytes": 2227753162,
+  "runs": 3,
+  "workers": 8,
+  "all_outputs_byte_exact": true,
+  "medians": {
+    "local_server": {
+      "pretoken_seconds": 6.4777792,
+      "setup_seconds": 0.26840690000000045,
+      "merge_seconds": 0.8216240999999993,
+      "training_seconds": 7.5763835,
+      "unique_pretokens": 59933,
+      "pretoken_allocated_bytes": 24103665064,
+      "pretoken_gc_pause_seconds": 0.1818,
+      "process_wall_seconds": 7.7665172000015446,
+      "sampled_process_tree_peak_rss_bytes": 2978590720
+    }
+  }
+}

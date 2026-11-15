@@ -1,0 +1,82 @@
+{
+  "local_workstation": [
+    {
+      "pretoken_seconds": 0.9130169,
+      "setup_seconds": 0.1412342000000001,
+      "merge_seconds": 0.5810215999999999,
+      "training_seconds": 1.6352727,
+      "unique_pretokens": 29649,
+      "pretoken_mode": "local",
+      "server_gc": false,
+      "pretoken_allocated_bytes": 2914201696,
+      "pretoken_gc_pause_seconds": 0.067923,
+      "pretoken_gc_collections": [
+        166,
+        47,
+        5
+      ],
+      "process_wall_seconds": 1.7924316999997245,
+      "sampled_process_tree_peak_rss_bytes": 858284032,
+      "byte_exact_match": true
+    },
+    {
+      "pretoken_seconds": 0.8692192,
+      "setup_seconds": 0.14385530000000013,
+      "merge_seconds": 0.6862381999999998,
+      "training_seconds": 1.6993127,
+      "unique_pretokens": 29649,
+      "pretoken_mode": "local",
+      "server_gc": false,
+      "pretoken_allocated_bytes": 2914239776,
+      "pretoken_gc_pause_seconds": 0.062723,
+      "pretoken_gc_collections": [
+        166,
+        46,
+        5
+      ],
+      "process_wall_seconds": 1.8392537999970955,
+      "sampled_process_tree_peak_rss_bytes": 852807680,
+      "byte_exact_match": true
+    }
+  ],
+  "local_server": [
+    {
+      "pretoken_seconds": 1.0029421,
+      "setup_seconds": 0.1412606999999999,
+      "merge_seconds": 0.6124851,
+      "training_seconds": 1.7566879,
+      "unique_pretokens": 29649,
+      "pretoken_mode": "local",
+      "server_gc": true,
+      "pretoken_allocated_bytes": 2914207608,
+      "pretoken_gc_pause_seconds": 0.023426,
+      "pretoken_gc_collections": [
+        19,
+        8,
+        3
+      ],
+      "process_wall_seconds": 1.918993399998726,
+      "sampled_process_tree_peak_rss_bytes": 982081536,
+      "byte_exact_match": true
+    },
+    {
+      "pretoken_seconds": 0.8388301,
+      "setup_seconds": 0.14134049999999998,
+      "merge_seconds": 0.6215873,
+      "training_seconds": 1.6017579,
+      "unique_pretokens": 29649,
+      "pretoken_mode": "local",
+      "server_gc": true,
+      "pretoken_allocated_bytes": 2914214272,
+      "pretoken_gc_pause_seconds": 0.024115,
+      "pretoken_gc_collections": [
+        20,
+        9,
+        4
+      ],
+      "process_wall_seconds": 1.7605599999988044,
+      "sampled_process_tree_peak_rss_bytes": 912388096,
+      "byte_exact_match": true
+    }
+  ]
+}

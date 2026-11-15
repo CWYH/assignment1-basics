@@ -1,0 +1,127 @@
+{
+  "Python": [
+    {
+      "pretoken_seconds": 52.665376600001764,
+      "setup_seconds": 0.21093689999906928,
+      "merge_seconds": 2.2258823000011034,
+      "training_seconds": 55.10219580000194,
+      "process_wall_seconds": 55.24429669999881,
+      "sampled_process_tree_peak_rss_bytes": 1169080320,
+      "byte_exact_match": true
+    },
+    {
+      "pretoken_seconds": 48.127832499998476,
+      "setup_seconds": 0.2059928000016953,
+      "merge_seconds": 2.184986799999024,
+      "training_seconds": 50.518812099999195,
+      "process_wall_seconds": 50.668106299999636,
+      "sampled_process_tree_peak_rss_bytes": 1170018304,
+      "byte_exact_match": true
+    },
+    {
+      "pretoken_seconds": 42.66347440000027,
+      "setup_seconds": 0.21373119999771006,
+      "merge_seconds": 2.2055743999990227,
+      "training_seconds": 45.082779999997,
+      "process_wall_seconds": 45.25748190000013,
+      "sampled_process_tree_peak_rss_bytes": 1171316736,
+      "byte_exact_match": true
+    }
+  ],
+  "C++": [
+    {
+      "pretoken_seconds": 5.234601,
+      "setup_seconds": 0.097631,
+      "merge_seconds": 0.886816,
+      "training_seconds": 6.219049,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 6.312352699998883,
+      "sampled_process_tree_peak_rss_bytes": 562442240,
+      "byte_exact_match": true
+    },
+    {
+      "pretoken_seconds": 5.053183,
+      "setup_seconds": 0.109405,
+      "merge_seconds": 0.862048,
+      "training_seconds": 6.024636,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 6.097528899997997,
+      "sampled_process_tree_peak_rss_bytes": 562130944,
+      "byte_exact_match": true
+    },
+    {
+      "pretoken_seconds": 5.782039,
+      "setup_seconds": 0.114092,
+      "merge_seconds": 0.899697,
+      "training_seconds": 6.795828,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 6.846366300000227,
+      "sampled_process_tree_peak_rss_bytes": 561741824,
+      "byte_exact_match": true
+    }
+  ],
+  "C#": [
+    {
+      "pretoken_seconds": 74.1192371,
+      "setup_seconds": 0.28610899999999617,
+      "merge_seconds": 0.7848242999999968,
+      "training_seconds": 75.1901704,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 75.39530089999971,
+      "sampled_process_tree_peak_rss_bytes": 2730983424,
+      "byte_exact_match": true
+    },
+    {
+      "pretoken_seconds": 72.5712539,
+      "setup_seconds": 0.27094130000000405,
+      "merge_seconds": 0.8470548999999892,
+      "training_seconds": 73.6892501,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 73.88181479999912,
+      "sampled_process_tree_peak_rss_bytes": 2498424832,
+      "byte_exact_match": true
+    },
+    {
+      "pretoken_seconds": 72.4974982,
+      "setup_seconds": 0.28125890000001164,
+      "merge_seconds": 0.7329855999999921,
+      "training_seconds": 73.5117427,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 73.70026990000042,
+      "sampled_process_tree_peak_rss_bytes": 2211475456,
+      "byte_exact_match": true
+    }
+  ],
+  "Java": [
+    {
+      "pretoken_seconds": 15.069938,
+      "setup_seconds": 0.1613611,
+      "merge_seconds": 0.6733074,
+      "training_seconds": 15.9046065,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 16.170203499998024,
+      "sampled_process_tree_peak_rss_bytes": 1383280640,
+      "byte_exact_match": true
+    },
+    {
+      "pretoken_seconds": 14.3544729,
+      "setup_seconds": 0.159682,
+      "merge_seconds": 0.6969299,
+      "training_seconds": 15.2110848,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 15.442248100000143,
+      "sampled_process_tree_peak_rss_bytes": 1526292480,
+      "byte_exact_match": true
+    },
+    {
+      "pretoken_seconds": 14.7379584,
+      "setup_seconds": 0.1625687,
+      "merge_seconds": 1.16806,
+      "training_seconds": 16.0685871,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 16.328768799998215,
+      "sampled_process_tree_peak_rss_bytes": 1527771136,
+      "byte_exact_match": true
+    }
+  ]
+}

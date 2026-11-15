@@ -1,0 +1,30 @@
+{
+  "input_bytes": 268437362,
+  "runs": 2,
+  "workers": 8,
+  "all_outputs_byte_exact": true,
+  "medians": {
+    "local_workstation": {
+      "pretoken_seconds": 0.89111805,
+      "setup_seconds": 0.1425447500000001,
+      "merge_seconds": 0.6336298999999999,
+      "training_seconds": 1.6672927,
+      "unique_pretokens": 29649.0,
+      "pretoken_allocated_bytes": 2914220736.0,
+      "pretoken_gc_pause_seconds": 0.06532299999999999,
+      "process_wall_seconds": 1.81584274999841,
+      "sampled_process_tree_peak_rss_bytes": 855545856.0
+    },
+    "local_server": {
+      "pretoken_seconds": 0.9208861,
+      "setup_seconds": 0.14130059999999994,
+      "merge_seconds": 0.6170362,
+      "training_seconds": 1.6792229,
+      "unique_pretokens": 29649.0,
+      "pretoken_allocated_bytes": 2914210940.0,
+      "pretoken_gc_pause_seconds": 0.0237705,
+      "process_wall_seconds": 1.8397766999987653,
+      "sampled_process_tree_peak_rss_bytes": 947234816.0
+    }
+  }
+}

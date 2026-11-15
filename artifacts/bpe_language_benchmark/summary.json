@@ -1,0 +1,52 @@
+{
+  "input_sha256": "6418d412de72888f52b5142c761ac21a582f7d1166f0bfbdb5f03ccfdec90443",
+  "input_bytes": 2227753162,
+  "vocab_size": 10000,
+  "special_token": "<|endoftext|>",
+  "workers": 8,
+  "repetitions": 3,
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python_version": "3.13.5",
+  "logical_cpus": 20,
+  "total_ram_bytes": 34167775232,
+  "memory_measurement": "20 ms samples of summed parent/child RSS; shared pages may be counted more than once",
+  "timing": "Fresh processes; training timer excludes startup and serialization; process wall includes both",
+  "all_outputs_byte_exact": true,
+  "medians": {
+    "Python": {
+      "pretoken_seconds": 48.127832499998476,
+      "setup_seconds": 0.21093689999906928,
+      "merge_seconds": 2.2055743999990227,
+      "training_seconds": 50.518812099999195,
+      "process_wall_seconds": 50.668106299999636,
+      "sampled_process_tree_peak_rss_bytes": 1170018304
+    },
+    "C++": {
+      "pretoken_seconds": 5.234601,
+      "setup_seconds": 0.109405,
+      "merge_seconds": 0.886816,
+      "training_seconds": 6.219049,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 6.312352699998883,
+      "sampled_process_tree_peak_rss_bytes": 562130944
+    },
+    "C#": {
+      "pretoken_seconds": 72.5712539,
+      "setup_seconds": 0.28125890000001164,
+      "merge_seconds": 0.7848242999999968,
+      "training_seconds": 73.6892501,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 73.88181479999912,
+      "sampled_process_tree_peak_rss_bytes": 2498424832
+    },
+    "Java": {
+      "pretoken_seconds": 14.7379584,
+      "setup_seconds": 0.1613611,
+      "merge_seconds": 0.6969299,
+      "training_seconds": 15.9046065,
+      "unique_pretokens": 59933,
+      "process_wall_seconds": 16.170203499998024,
+      "sampled_process_tree_peak_rss_bytes": 1526292480
+    }
+  }
+}
